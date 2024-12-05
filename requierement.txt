@@ -1,5 +1,4 @@
 streamlit
 pandas
-tinydb
-from streamlit_authenticator import Authenticate
-from streamlit_option_menu import option_menu
+streamlit_authenticator 
+streamlit_option_menu
